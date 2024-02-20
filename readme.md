@@ -1,14 +1,5 @@
 <img src="https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/backgrounds/27_g19_lighthouse_front.png" style="width: 100%; height: auto"/>
 <div align="left">
-	<h2>Hobbies</h2>
-	<ul>
-		<li>Game</li>
-		<li>Code</li>
-		<li>Abandon Projects</li>
-		<li>Sleep..</li>
-	</ul>
-</div>
-<div align="left">
 	<h2>Contact</h2>
 	<table>
 		<tr>
