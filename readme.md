@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/Aceship/Arknight-Images/main/avg/backgrounds/27_g19_lighthouse_front.png" style="width: 100%; height: auto"/>
 <div align="left">
 	<h2>Contact</h2>
 	<table>
@@ -12,4 +11,3 @@
 		</tr>
 	</table>
 </div>
-<div align="right"><i>I'll fix this some day?</i></div>
